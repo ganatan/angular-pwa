@@ -93,10 +93,9 @@ Here is a step by step Tutorial :  https://www.ganatan.com/en/tutorials/getting-
 * Author  : danny
 
 ## [English Tutorials](#english-tutorials)
-- Installation - https://www.ganatan.com/en/tutorials/pwa-with-angular-universal
+- Installation - https://www.ganatan.com/en/tutorials/progressive-web-app-with-angular
 - step-by-step Tutorials - https://www.ganatan.com/tutorials/en
 
 ## [Tutoriels en français](#french-tutorials)
-- Installation - https://www.ganatan.com/tutorials/pwa-avec-angular-universal
-
+- Installation - https://www.ganatan.com/tutorials/progressive-web-app-avec-angular
 - Tutoriels Etape par étape - https://www.ganatan.com/tutorials
