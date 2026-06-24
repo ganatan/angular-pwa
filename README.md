@@ -1,4 +1,4 @@
-# Angular 20 & React 18 Examples PWA
+# Angular 22 Examples PWA
 
 <table>
 <tr>
